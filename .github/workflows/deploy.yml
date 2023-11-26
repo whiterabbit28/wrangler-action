@@ -1,4 +1,4 @@
-name: Wrangler Action Self Testing
+name: New Hoo Doo
 on:
   pull_request:
     branches:
